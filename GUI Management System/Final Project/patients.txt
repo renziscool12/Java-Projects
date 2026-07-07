@@ -1,0 +1,5 @@
+123456,Mingo,21,Male,false
+456123,Jal,23,Male,true
+555123,Raymark,24,Male,false
+223145,Virchie,19,Male,true
+887992,Kristina,19,Female,true

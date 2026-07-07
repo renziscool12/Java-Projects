@@ -1,0 +1,10 @@
+1000001, The Tale of Monkey KIng, Jal Philip C. Librando, Fiction, 12-23-2019, UM Library 1st Floor, true
+1000002, Was He a Person?, Renz, Fantasy, 09-19-2020, DPT Building 3rd Floor, false
+1000003, Melancholic Past, Raymark, Romance, 05-08-2015, GET Building 3rd Floor, false
+1000004, Cars, Virchie, Fiction, 01-12-2020, Davao City Museum, true
+1000005, One Piece Vol. 153, Eichiro Oda, Fiction, 04-12-2012, National Book Store, true
+1000006, Love Story, John Vincent, Romance, 07-22-2018, National Book Store, false
+1000007, Death Note, Ash, Fiction, 03-08-2010, Japan National Book Store, true
+1000008, Demon Slayer, Kristina, Fiction, 12-25-2017, National Book Store, true
+1000009, Black Clover, Manuel, Fiction, 09-12-2016, Japan National Book Store, true
+1000010, Beastars, John Rey, Horror, 10-19-2019, National Book Store, false
