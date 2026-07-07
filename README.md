@@ -1,4 +1,4 @@
-# Project Name
+# JAVA PROJECT
 
 A simple Java project created as part of my programming practice. This project focuses on applying basic Java concepts such as Object-Oriented Programming, data handling, and problem solving.
 
